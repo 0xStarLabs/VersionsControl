@@ -8,5 +8,10 @@
         "VERSION": "1.2.1",
         "UPDATE_DATE": "17.05.2025",
         "CHANGES": ["Added ConftApp", "Added OmniHub mints"]
+    },
+    {
+        "VERSION": "1.2.2",
+        "UPDATE_DATE": "17.05.2025",
+        "CHANGES": ["StorageScan fixed"]
     }
 ]
