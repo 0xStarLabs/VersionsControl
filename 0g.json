@@ -1,10 +1,7 @@
 [
-  {
-    "VERSION": "1.1",
-    "UPDATE_DATE": "16.05.2025",
-    "CHANGES": [
-      "Faucet fixed",
-      "Chain update",
-    ]
-  },
+    {
+        "VERSION": "1.2.0",
+        "UPDATE_DATE": "17.05.2025",
+        "CHANGES": ["Faucet fixed", "Added version control"]
+    }
 ]
