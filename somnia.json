@@ -3,5 +3,10 @@
         "VERSION": "1.1.0",
         "UPDATE_DATE": "17.05.2025",
         "CHANGES": ["Faucet fixed", "Chain update"]
+    },
+    {
+        "VERSION": "1.1.1",
+        "UPDATE_DATE": "20.05.2025",
+        "CHANGES": ["Somnia Domains mint added"]
     }
 ]
