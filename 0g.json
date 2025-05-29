@@ -13,5 +13,10 @@
         "VERSION": "1.2.2",
         "UPDATE_DATE": "17.05.2025",
         "CHANGES": ["StorageScan fixed"]
+    },
+    {
+        "VERSION": "1.2.3",
+        "UPDATE_DATE": "29.05.2025",
+        "CHANGES": ["Added MintAura mint", "Added Morkie mint"]
     }
 ]
